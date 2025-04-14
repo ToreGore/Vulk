@@ -1,2 +1,2 @@
 # Vulk
-A small Python script that performs an HW diagnostic on your system and tells you if there are probable failures
+A system that allows to remove junk jobs from major work websites and tailors the best picks related to your CV.
